@@ -69,7 +69,7 @@ If you are using linux you don't need anymore information to know how to access 
 </div>
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-short-15-3.gif" /><br><br>
+<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-short-15-3-output.gif" /><br><br>
 </div>
 
 ### Installation
