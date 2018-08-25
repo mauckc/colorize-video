@@ -18,6 +18,9 @@ Colorized Big Buck Bunny with Zero Knowledge of the Original Colorization
 
 ## About colorize-video
 
+Youtube Link to 30 second sample of colorization output video:
+https://youtu.be/I7DkwbDBRwI
+
 ---
 ### Referenced Code
 * https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
