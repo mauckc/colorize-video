@@ -8,7 +8,28 @@ colorize video using neural nets
 * https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
 * https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/
 
-### Requirements
+## Requirements
+
+### FFmpeg
+* FFmpeg command line tools
+
+#### Using Homebrew
+The simplest way to install ffmpeg on Mac OS X is with [Homebrew](http://mxcl.github.com/homebrew/).
+
+Once you have Homebrew installed install ffmpeg from the Terminal with the following:
+```
+$ brew install ffmpeg
+```
+
+#### Windows
+https://www.ffmpeg.org/
+
+https://www.wikihow.com/Install-FFmpeg-on-Windows
+
+#### Linux
+If you are using linux you don't need anymore information to know how to access the packages and libraries mentioned here
+
+### Python
 
 * [NumPy](http://numpy.scipy.org/)
 * [OpenCV 3](http://opencv.org/) 
