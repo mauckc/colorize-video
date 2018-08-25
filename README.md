@@ -38,8 +38,9 @@ Now you should have installed the necessary packages
 
 You still need to download the models: 
 
+
 ```python
-Specify the paths for the 2 model files
+#Specify the paths for the 2 model files
 protoFile = "./models/colorization_deploy_v2.prototxt"
 weightsFile = "./models/colorization_release_v2.caffemodel"
 #weightsFile = "./models/colorization_release_v2_norebal.caffemodel"
