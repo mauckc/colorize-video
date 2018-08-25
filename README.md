@@ -2,15 +2,15 @@
 colorize video using neural nets
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/originalcolor-long-0-10.gif" /><br><br>
+<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/originalcolor-long-0-10.gif" />
 </div>
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/greyscale-long-0-10.gif" /><br><br>
+<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/greyscale-long-0-10.gif" />
 </div>
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/colorized-long-0-10.gif" /><br><br>
+<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/colorized-long-0-10.gif" />
 </div>
 
 ## About colorize-video
