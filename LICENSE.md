@@ -1,2 +1,1 @@
-This code is written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
-It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
+This code has been adapted by the code tbat was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project. It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
