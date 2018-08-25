@@ -1,6 +1,18 @@
 # colorize-video
 colorize video using neural nets
 
+<div align="center">
+<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/originalcolor-long-0-10.gif" /><br><br>
+</div>
+
+<div align="center">
+<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/greyscale-long-0-10.gif" /><br><br>
+</div>
+
+<div align="center">
+<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/colorized-long-0-10.gif" /><br><br>
+</div>
+
 ## About colorize-video
 
 ---
@@ -47,6 +59,19 @@ If you are using linux you don't need anymore information to know how to access 
 *greyimages/*  contains grey scale images for colorization
 *greyimages/coloredimages/*  contains colorized images 
 ```
+
+<div align="center">
+<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/originalcolor-short-15-3.gif" /><br><br>
+</div>
+
+<div align="center">
+<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/greyscale-short-15-3.gif" /><br><br>
+</div>
+
+<div align="center">
+<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/colorized-short-15-3.gif" /><br><br>
+</div>
+
 ### Installation
 
 Open a terminal in the headpose directory and run (with sudo if needed on your system):
@@ -81,6 +106,7 @@ Then run the shell script
 ```shell
 ./getModels.sh
 ```
+
 
 ## Usage
 ### Process input video and output all frames in greyscale
