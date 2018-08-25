@@ -11,7 +11,7 @@ Greyscale Converted
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/grey-long-0-10.gif" />
 </div>
 
-Colorized Big Buck Bunny with Zero Knowedlge of Original Aolorization
+Colorized Big Buck Bunny with Zero Knowedlge of Original Colorization
 <div align="center">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-long-0-10-output.gif" />
 </div>
