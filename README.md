@@ -21,7 +21,6 @@ You need to have Python 2.6+ as a minimum and:
 ```
 ```shell
 *models/*  contains the models used in this example we use Facial Landmark detection 68 points.
-           *one must download shape_detector_68_facial_landmarks.dat because it is too large a file to host here.
 ```
 ```shell
 *images/*  contains images 
@@ -60,7 +59,7 @@ chmod +x pngs2vid.sh
 
 Then run the shell script
 ```shell
-	./getModels.sh
+./getModels.sh
 ```
 
 ## Usage
