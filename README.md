@@ -18,8 +18,16 @@ Colorized Big Buck Bunny with Zero Knowledge of the Original Colorization
 
 ## About colorize-video
 
-Youtube Link to 30 second sample of colorization output video:
-https://youtu.be/I7DkwbDBRwI
+Input: Color or B&W Video File
+preferably '*.mp4'
+
+Output: AI Colorized Video File
+The neural network recreates each frame's colorization individually
+
+#### Youtube
+Big Buck Bunny
+30 second sample of colorization output video:
+* https://youtu.be/I7DkwbDBRwI
 
 ---
 ### Referenced Code
