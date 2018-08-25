@@ -6,7 +6,7 @@ colorize video using neural nets
 </div>
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/greyscale-long-0-10.gif" />
+<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/grey-long-0-10.gif" />
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@ If you are using linux you don't need anymore information to know how to access 
 </div>
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/greyscale-short-15-3.gif" /><br><br>
+<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/grey-short-15-3.gif" /><br><br>
 </div>
 
 <div align="center">
