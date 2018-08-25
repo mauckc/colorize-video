@@ -6,12 +6,12 @@ Original Big Buck Bunny Colorization
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/originalcolor-long-0-10.gif" />
 </div>
 
-Greyscale Converted
+Greyscale Processed Frames
 <div align="center">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/grey-long-0-10.gif" />
 </div>
 
-Colorized Big Buck Bunny with Zero Knowedlge of Original Colorization
+Colorized Big Buck Bunny with Zero Knowledge of the Original Colorization
 <div align="center">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-long-0-10-output.gif" />
 </div>
