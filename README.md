@@ -5,10 +5,10 @@ colorize video using neural nets
 
 ---
 ### Referenced Code
-* https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib
+* https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
 * https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/
 
-### Dependencies
+### Requirements
 You need to have Python 2.6+ as a minimum and:
 
 * [NumPy](http://numpy.scipy.org/)
