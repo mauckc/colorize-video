@@ -9,7 +9,6 @@ colorize video using neural nets
 * https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/
 
 ### Requirements
-You need to have Python 2.6+ as a minimum and:
 
 * [NumPy](http://numpy.scipy.org/)
 * [OpenCV 3](http://opencv.org/) 
