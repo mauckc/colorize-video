@@ -2,15 +2,15 @@
 colorize video using neural nets
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/originalcolor-long-0-10.gif" />
+<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/originalcolor-long-0-10.gif" />
 </div>
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/greyscale-long-0-10.gif" />
+<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/greyscale-long-0-10.gif" />
 </div>
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/colorized-long-0-10.gif" />
+<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-long-0-10-output.gif" />
 </div>
 
 ## About colorize-video
@@ -61,15 +61,15 @@ If you are using linux you don't need anymore information to know how to access 
 ```
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/originalcolor-short-15-3.gif" /><br><br>
+<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/originalcolor-short-15-3.gif" /><br><br>
 </div>
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/greyscale-short-15-3.gif" /><br><br>
+<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/greyscale-short-15-3.gif" /><br><br>
 </div>
 
 <div align="center">
-<img src="https://github.com/mauckc/colorize-video/tree/master/sample-video/colorized-short-15-3.gif" /><br><br>
+<img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-short-15-3.gif" /><br><br>
 </div>
 
 ### Installation
