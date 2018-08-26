@@ -1,8 +1,11 @@
 # colorize-video
 colorize video using neural nets
-### Referenced Code
+### Referenced Code and Motivation
+This code was inspired by the code that was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
+I wanted to write a script (or a few) that would input a video and output a the video with original RGB removed and neural net generated colorization added.
+
+Satya Mallick post that sparked interest:
 * https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
-* https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/
 ## About colorize-video
 * Input: Color or B&W Video File (preferably '*.mp4')
 * Output: AI Colorized Video File
@@ -165,7 +168,7 @@ python grey-video2images.py
 ./colorized_pngs2vid.sh
 ```
 
-The colorization part of this code is based on and adapted by the code tbat was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
+The colorization part of this code is based on and adapted by the code that was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
 It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
 
 -Ross Mauck
