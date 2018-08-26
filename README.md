@@ -138,19 +138,19 @@ $ ./getModels.sh
 ## Sample Video
 ### Original
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/originalcolor-short-15-3.gif" /><br><br>
 </div>
 
 ### Colorized from Greyscale
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-short-15-3-output.gif" /><br><br>
 </div>
 
 ### Greyscale
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/grey-short-15-3.gif" /><br><br>
 </div>
 
