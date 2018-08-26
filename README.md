@@ -1,5 +1,5 @@
 # colorize-video
-colorize video using neural nets
+colorize video using neural-networks
 ### Referenced Code and Motivation
 This code was inspired by the code that was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
 I wanted to write a script (or a few) that would input a video and output a the video with original RGB removed and neural net generated colorization added.
