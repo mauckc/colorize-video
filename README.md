@@ -182,6 +182,11 @@ $ ./all_colorize.sh
 $ ./colorized_pngs2vid.sh
 ```
 
+if using Windows:
+```shell
+$ ./colorized_pngs2vid_windows.sh
+```
+
 The colorization part of this code is based on and adapted by the code that was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
 It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
 
