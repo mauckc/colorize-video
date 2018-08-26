@@ -1,5 +1,16 @@
 # colorize-video
 colorize video using neural nets
+### Referenced Code
+* https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
+* https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/
+## About colorize-video
+* Input: Color or B&W Video File (preferably '*.mp4')
+* Output: AI Colorized Video File
+The neural network recreates each frame's colorization individually
+### Youtube
+Big Buck Bunny
+30 second sample of colorization output video:
+* https://youtu.be/I7DkwbDBRwI
 ### Original
 Original Big Buck Bunny Colorization
 <div align="center">
@@ -15,18 +26,6 @@ Colorized Big Buck Bunny with Zero Knowledge of the Original Colorization
 <div align="center">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-long-0-10-output.gif" />
 </div>
-## About colorize-video
-* Input: Color or B&W Video File (preferably '*.mp4')
-* Output: AI Colorized Video File
-The neural network recreates each frame's colorization individually
-#### Youtube
-Big Buck Bunny
-30 second sample of colorization output video:
-* https://youtu.be/I7DkwbDBRwI
----
-### Referenced Code
-* https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
-* https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/
 ## Requirements
 ### FFmpeg
 * FFmpeg command line tools
@@ -153,7 +152,7 @@ python grey-video2images.py
 ```shell
 ./colorized_pngs2vid.sh
 ```
-The colorization code has been adapted by the code tbat was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
+The colorization part of this code is based on and adapted by the code tbat was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
 It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
 ---
 -Ross Mauck
