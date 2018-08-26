@@ -87,8 +87,9 @@ Navigate back to the 'colorize-video/' directory and run
 $ getModels.sh
 ```
 ### Python
-I used Python 2.7.15 and 3.6.5
+I used Python 3.6.5, 3.6.2 and 2.7.15
 * https://www.python.org/downloads/
+When working on Windows I found that Python 3 was necessary for cv2.dnn "dnn" module use in the colorization step.
 #### Packages
 Using pip https://pypi.org/project/pip/
 ```shell
@@ -99,6 +100,13 @@ $ pip install imutils
 * [NumPy](http://numpy.scipy.org/)
 * [OpenCV 3](http://opencv.org/) 
 * [Imutils](https://github.com/jrosebr1/imutils)
+
+I found that Python 3 was necessary for cv2.dnn "dnn" module use in this step.
+Potentially needing:
+```shell
+pip3 install opencv-contrib-python
+```
+
 ### Structure
 ```shell
 *models/*  contains the models used in this example we use Facial Landmark detection 68 points.
@@ -161,6 +169,11 @@ $ ./getModels.sh
 $ python grey-video2images.py
 ```
 ## Colorize all greyscale frames
+I found that Python 3 was necessary for cv2.dnn "dnn" module use in this step.
+Potentially needing:
+```shell
+pip3 install opencv-contrib-python
+```
 ```shell
 $ ./all_colorize.sh
 ```
@@ -171,6 +184,9 @@ $ ./colorized_pngs2vid.sh
 
 The colorization part of this code is based on and adapted by the code that was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
 It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
+
+If you are interested in using Deep Learning Caffe Models with OpenCV:
+https://www.pyimagesearch.com/2017/08/21/deep-learning-with-opencv/
 
 -Ross Mauck
 
