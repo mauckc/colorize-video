@@ -10,14 +10,16 @@ The neural network recreates each frame's colorization individually
 ### Youtube
 Big Buck Bunny
 30 second sample of colorization output video:
-* https://youtu.be/I7DkwbDBRwI
+* https://youtu.be/I7DkwbDBRwI 
 ### Original
 Original Big Buck Bunny Colorization
 <div align="center">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/originalcolor-long-0-10.gif" />
 </div>
+
 ### Greyscale
 Greyscale Processed Frames
+
 <div align="center">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/grey-long-0-10.gif" />
 </div>
