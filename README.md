@@ -167,7 +167,7 @@ python grey-video2images.py
 
 The colorization part of this code is based on and adapted by the code tbat was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
 It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
----
+
 -Ross Mauck
 
 
