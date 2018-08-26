@@ -13,21 +13,22 @@ Big Buck Bunny
 * https://youtu.be/I7DkwbDBRwI 
 ### Original
 Original Big Buck Bunny Colorization
-<div align="center">
+
+<div align="left">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/originalcolor-long-0-10.gif" />
 </div>
 
 ### Greyscale
 Greyscale Processed Frames
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/grey-long-0-10.gif" />
 </div>
 
 ### Colorized from Greyscale
 Colorized Big Buck Bunny with Zero Knowledge of the Original Colorization
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-long-0-10-output.gif" />
 </div>
 
@@ -133,17 +134,23 @@ Then run the shell script
 ```
 ## Sample Video
 ### Original
+
 <div align="center">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/originalcolor-short-15-3.gif" /><br><br>
 </div>
+
 ### Colorized from Greyscale
+
 <div align="center">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/colorized-short-15-3-output.gif" /><br><br>
 </div>
+
 ### Greyscale
+
 <div align="center">
 <img src="https://github.com/mauckc/colorize-video/blob/master/sample-video/grey-short-15-3.gif" /><br><br>
 </div>
+
 ## Usage
 ### Process input video and output all frames in greyscale
 ```shell
