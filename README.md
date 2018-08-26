@@ -43,7 +43,7 @@ Greyscale Processed Frames
 The simplest of all the land is our friend Ubuntu, where the following command would suffice for installation of ffmpeg library.
 Make sure that ffmpeg is in your bin path etc if you are unable to enter in terminal after restart or after reinvoking bashrc using "source".
 ```shell
-sudo apt-get install ffmpeg
+$ sudo apt-get install ffmpeg
 ```
 #### Mac OS (Homebrew)
 The simplest way to install ffmpeg on Mac OS X is with [Homebrew](http://mxcl.github.com/homebrew/).
@@ -68,7 +68,7 @@ wget-1.19.4-win64.zip, wget.exe
 extract the contents of the zip folder and add the directory containing only the extracted files to your PATH environment variables.
 start a new Command Prompt and the wget command should be available
 ```shell
-wget --version
+$ wget --version
 ```
 After entering the -V --version command you should see something similar to the following command prompt output:
 ```shell
@@ -110,7 +110,7 @@ $ pip install imutils
 ### Installation
 Open a terminal in the headpose directory and run (with sudo if needed on your system):
 ```shell
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 Now you should have installed the necessary packages
 
@@ -126,14 +126,14 @@ weightsFile = "./models/colorization_release_v2.caffemodel"
 ```
 Give privilages to run the shell script to start application
 ```shell
-chmod +x getModels.sh
-chmod +x all_colorize.sh
-chmod +x colorized_pngs2vid.sh
-chmod +x pngs2vid.sh
+$ chmod +x getModels.sh
+$ chmod +x all_colorize.sh
+$ chmod +x colorized_pngs2vid.sh
+$ chmod +x pngs2vid.sh
 ```
 Then run the shell script
 ```shell
-./getModels.sh
+$ ./getModels.sh
 ```
 ## Sample Video
 ### Original
@@ -157,15 +157,15 @@ Then run the shell script
 ## Usage
 ### Process input video and output all frames in greyscale
 ```shell
-python grey-video2images.py
+$ python grey-video2images.py
 ```
 ## Colorize all greyscale frames
 ```shell
-./all_colorize.sh
+$ ./all_colorize.sh
 ```
 ## Compile new video of colorized frames
 ```shell
-./colorized_pngs2vid.sh
+$ ./colorized_pngs2vid.sh
 ```
 
 The colorization part of this code is based on and adapted by the code that was written by Sunita Nayak at BigVision LLC. It is based on the OpenCV project.
