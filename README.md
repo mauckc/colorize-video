@@ -106,6 +106,7 @@ Potentially needing:
 ```shell
 pip3 install opencv-contrib-python
 ```
+[![Big-Buck-Bunny](http://img.youtube.com/vi/9-YBfWpMSh4/0.jpg)](https://www.youtube.com/watch?v=9-YBfWpMSh4 "Big-Buck-Bunny")
 
 ### Structure
 ```shell
