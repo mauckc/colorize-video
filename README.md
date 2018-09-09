@@ -15,8 +15,10 @@ The neural network recreates each frame's colorization individually
 Big Buck Bunny
 Click the image below to view in new window:
 [![Big-Buck-Bunny](http://img.youtube.com/vi/9-YBfWpMSh4/0.jpg)](https://www.youtube.com/watch?v=9-YBfWpMSh4 "Big-Buck-Bunny")
-30 second sample of colorization without norbalance output video:
+
+
 * https://youtu.be/I7DkwbDBRwI 
+30 second sample of colorization without norbalance output video:
 ### Original
 Original Big Buck Bunny Colorization
 
