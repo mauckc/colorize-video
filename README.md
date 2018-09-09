@@ -13,7 +13,9 @@ Satya Mallick post that sparked interest:
 The neural network recreates each frame's colorization individually
 ### Youtube
 Big Buck Bunny
-30 second sample of colorization output video:
+Click the image below to view in new window:
+[![Big-Buck-Bunny](http://img.youtube.com/vi/9-YBfWpMSh4/0.jpg)](https://www.youtube.com/watch?v=9-YBfWpMSh4 "Big-Buck-Bunny")
+30 second sample of colorization without norbalance output video:
 * https://youtu.be/I7DkwbDBRwI 
 ### Original
 Original Big Buck Bunny Colorization
@@ -106,7 +108,7 @@ Potentially needing:
 ```shell
 pip3 install opencv-contrib-python
 ```
-[![Big-Buck-Bunny](http://img.youtube.com/vi/9-YBfWpMSh4/0.jpg)](https://www.youtube.com/watch?v=9-YBfWpMSh4 "Big-Buck-Bunny")
+
 
 ### Structure
 ```shell
