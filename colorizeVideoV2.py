@@ -193,7 +193,6 @@ while fvs.more():
 	cv2.imwrite(originaloutputFile, gray)
 	print('\original image saved as '+originaloutputFile)'''
 	# Set end time
-	print("Ending Timing...\n")
 	endlast = end
 	end = time.time()
 	last_time_elapsed = end - endlast
@@ -224,8 +223,10 @@ while fvs.more():
 	cv2.waitKey(1)
 	fps.update()
 
+
 print("\ndone!!!")
 # stop the timer and display FPS information
+print("Ending Timing...\n")
 fps.stop()
 print("[INFO] elasped time: {:.2f}".format(fps.elapsed()))
 print("[INFO] approx. FPS: {:.2f}".format(fps.fps()))
