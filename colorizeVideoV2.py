@@ -54,7 +54,7 @@ args = ap.parse_args()
 
 if args.input==None:
     print('Please give the input grayscale image name.')
-    print('Usage example: python3 write_to_video_colorize.py --input path/to/RGB input video --output path/to/name of output file.avi')
+    print('Usage example: python3 colorizeVideoV2.py --input path/to/RGB input video --output path/to/name of output file.avi or ".mp4" If you choose mp4 as output please add "--codec MJPG" when you pass the other parameters: --output and --input')
     exit()
 
 if os.path.isfile(args.input)==0:
