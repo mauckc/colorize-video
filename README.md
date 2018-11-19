@@ -1,5 +1,5 @@
 # colorize-video
-colorize video using neural-networks
+colorize video using neural-networks with python and shell scripts
 ## Motivation and Referenced code
 I wanted to write a script (or a few) that would input a video and output a the video with original RGB removed and neural net generated colorization added.
 
